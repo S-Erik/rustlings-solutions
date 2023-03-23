@@ -1,4 +1,4 @@
-# rustlings 🦀❤️
+# rustlings solutions of version 5.4.1 up to threads1 (excluded) (76/94) 🦀❤️
 
 Greetings and welcome to `rustlings`. This project contains small exercises to get you used to reading and writing Rust code. This includes reading and responding to compiler messages!
 
